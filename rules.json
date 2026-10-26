@@ -1,0 +1,19 @@
+{
+  "rules": [
+    {
+      "name": "5 FAILS on login",
+      "kind": "login",
+      "enabled": true
+    },
+    {
+      "name": "WIN-003 USB Connected",
+      "kind": "usb",
+      "enabled": true
+    },
+    {
+      "name": "SYS-001 Office Shell Execution",
+      "kind": "office_shell",
+      "enabled": true
+    }
+  ]
+}
